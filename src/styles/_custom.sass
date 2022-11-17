@@ -1,14 +1,22 @@
 .banner-principal-decorativo
-  &-1
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 20%
+    right: 4%
+    z-index: 2
   &-2
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 12%
+    left: 2%
+    z-index: 2
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 11%
+    left: 10%
+    z-index: 2
 
 
 @keyframes float1
@@ -17,3 +25,233 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+.tarjeta--s1
+  background: #E7EAF8
+  .slyder-a__btn--atrs,.slyder-a__btn--sigt
+    background-color: #4E2E8E
+  .slyder-a__bullets__item
+    background-color: #B0A2CD
+  .slyder-a__bullets__item--active
+    background-color: #C6412A
+    border-color: #C6412A
+
+.banner-principal__componente
+  h1 
+    color: $color-acento-botones
+
+// titulo h3
+.color_texto_acento
+  color: $color-acento-contenido
+
+///// Custom acordeon A tipo A --------------------------------------
+
+.tarjeta.acordeonA
+  background-color: #E8E8E8
+
+.acordion__accion__btn--a
+  background-color: $color-primario
+  color: white
+
+.acordion__activo
+  background-color: #E7EAF8 !important 
+
+.color-icon-check
+  color: #F85316 
+
+  // Tarjeta icono suspendido ----------------
+.altura_1
+  height: 20em
+.altura_border
+  height: 22em
+  border-radius: 20px
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel3-tarjeta
+  margin-top: -4em
+.bg-01
+  background-color: #ACD382
+.bg-02
+  background-color: #FFFBC2
+.bg-03
+  background-color: #E7EAF8
+
+.cajon-color-1
+  background: #E4E0EE
+  &::before
+    background-color: $color-primario
+
+.cajon-color-2
+  background: #F7E2DF
+  &::before
+    background-color: $color-acento-contenido
+
+
+.fz-13
+  .tabs-a__tab__text
+    font-size: 13px
+
+.fz-10
+  .tabs-a__tab__text
+    font-size: 10px
+
+.style-card
+  background-color: #8C99E0
+  height: 30em
+
+.style-card:hover
+  background-color: $color-primario !important
+  p,h3
+    color: white !important
+
+.style-card-2
+  background-color: #8C99E0
+  height: 22em
+
+.style-card-2:hover
+  background-color: $color-primario !important
+  p,h3
+    color: white !important
+
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+    color: white !important
+
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: $color-secundario
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: $color-primario !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none  
+
+
+.fnd-in
+  background-image: url('../assets/template/i-fondo-card.png')
+
+// card horizontal
+
+.crd--avatarHorizontal-2
+  position: relative
+  padding-right: 1rem
+  height: 190px
+  & > *
+    position: relative
+  h5 
+    color: black !important
+  p 
+    margin-bottom: 0
+    color: black !important
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    background-color: #E7EAF8
+    height: 100%
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+    height: 100%
+
+.crd--complete
+  &::before
+    border-radius: 30px  
+
+.color-acento-botones_black
+  background-color: $color-primario
+  p,h3
+    color: white !important
+
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url('../assets/template/arrow-amarillo.svg')
+  
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  transform: rotate(0deg)
+
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  transform: rotate(180deg)
+
+.card-t1
+  background: #D1D6F3
+  border-radius: 5px
+  h4,p 
+    color: black !important
+
+.fnd-in-left-01
+  background-image: url('../assets/template/i-fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema01/t1-i29.svg') !important
+    background-size: cover
+    background-repeat: no-repeat
+
+.fnd-in-left-02
+  background-image: url('../assets/template/i-fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema01/t1-i51.svg') !important
+    background-size: cover
+    background-repeat: no-repeat
+
+.fnd-in-left-03
+  background-image: url('../assets/template/i-fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema02/t2-i9.svg') !important
+    background-size: cover
+    background-repeat: no-repeat
+
+.fnd-in-left-04
+  background-image: url('../assets/template/i-fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema03/t3-i5.svg') !important
+    background-size: cover
+    background-repeat: no-repeat
+
+.fnd-in-left-05
+  background-image: url('../assets/template/i-fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema03/t3-i7.svg') !important
+    background-size: cover
+    background-repeat: no-repeat
+
+
