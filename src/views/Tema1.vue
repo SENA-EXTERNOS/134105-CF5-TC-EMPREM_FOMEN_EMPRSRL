@@ -200,7 +200,7 @@
                   src='@/assets/template/tema01/t1-i13.png',
                   alt='alt'
                 ) 
-          .row(titulo='Email <em>Marketing</em>')
+          .row(titulo='<em>Marketing</em> en Instagram')
             .col-8
               p El 65 % de los usuarios de Instagram usan su&nbsp;
                 i Feed&nbsp;
@@ -250,7 +250,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Velocidad
-                  p.text-center los clientes necesitan que la información fluya con agilidad para tomar decisiones a tiempo y lo más acertadas posibles.
+                  p.text-center Los clientes necesitan que la información fluya con agilidad para tomar decisiones a tiempo y lo más acertadas posibles.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3
@@ -263,7 +263,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Talento
-                  p.text-center los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
+                  p.text-center Los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3
@@ -276,7 +276,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Talento
-                  p.text-center los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
+                  p.text-center Los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3
@@ -289,7 +289,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Nuevas fuentes
-                  p.text-center la investigación más tradicional dará paso a otra basada en la minería de datos, análisis semióticos, neurociencia, estudios etnográficos, entre otros.
+                  p.text-center La investigación más tradicional dará paso a otra basada en la minería de datos, análisis semióticos, neurociencia, estudios etnográficos, entre otros.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3
@@ -302,7 +302,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Mensajes concretos
-                  p.text-center los clientes requieren una comunicación más clara y directa, con conclusiones concisas y divulgativas, es decir, utilizar un lenguaje que hable en titulares y a continuación sea informada.
+                  p.text-center Los clientes requieren una comunicación más clara y directa, con conclusiones concisas y divulgativas, es decir, utilizar un lenguaje que hable en titulares y a continuación sea informada.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3
@@ -315,7 +315,7 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Mayor conexión con las nuevas tecnologías
-                  p.text-center el Internet y las redes sociales deben tener un mayor protagonismo en los estudios de opinión.
+                  p.text-center El Internet y las redes sociales deben tener un mayor protagonismo en los estudios de opinión.
 
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Los clientes: tipos y características
@@ -663,13 +663,13 @@
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo='Década de los 90´s') 
-          .col-md-6
+          .col-md-6.col-12
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema01/t1-i36.png',
                 alt='Texto que describa la imagen'
               )
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.col-12.mb-md-0
             p Durante la década de los 90´s, se conoció la primera versión de Internet llamada la Web 1.0 diferente a la que se conoce hoy en día.
             p Esta versión no permitía a los usuarios interactuar con páginas web de una manera activa, sino que estos, podían acceder a la información en un sistema de búsqueda simple.
             p Fue en esta misma época que se utilizó por primera vez el término&nbsp;
@@ -679,36 +679,36 @@
               | tradicional. La comunicación era unilateral, realizada por la empresa en un sitio institucional como máximo, y el consumidor solo recibía el contenido de forma pasiva.
 
         .row(titulo='Año 1993')
-          .col-md-6
+          .col-md-6.col-12
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema01/t1-i37.png',
                 alt='Texto que describa la imagen'
               )
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.col-12.mb-4.mb-md-0
             p Durante el correr del año 1993, los usuarios de Internet comenzaron a tener más interacción con las empresas que realizaban anuncios en la web; por ejemplo, en los anuncios en los que se podía hacer&nbsp;
               i clic.
 
         .row(titulo='Década del 2000')
-          .col-md-6
+          .col-md-6.col-12
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema01/t1-i38.png',
                 alt='Texto que describa la imagen'
               )
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.col-12.mb-4.mb-md-0
             p Sin embargo, a principios de la década del 2000 se introduce el&nbsp;
               i marketing 2.0,&nbsp;
               | donde la comunicación se vuelve más democrática y hace posible que cualquier persona pueda producir contenidos importantes; además, se crean nuevas plataformas y comunidades, donde los usuarios pueden interactuar, ya sea entre sí o con el contenido disponible en la red.
 
         .row(titulo='Año 2009')
-          .col-md-6
+          .col-md-6.col-12
             figure(data-aos='zoom-in')
               img(
                 src='@/assets/template/tema01/t1-i39.png',
                 alt='Texto que describa la imagen'
               )
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.col-12.mb-4.mb-md-0
             p A partir del año 2009, ya había una sociedad mucho más conectada. Se habla de la web 3.0, donde se tienen en cuenta la semántica de datos, la movilidad y los objetos conectados. Hoy en día, se afirma que el&nbsp;
               i marketing&nbsp;
               | digital abarca todos los métodos y prácticas de&nbsp;
@@ -854,7 +854,9 @@
                       alt='AvatarTop'
                     )
                   h3.text-center Valores de referencia y métricas de rendimiento
-                  p.text-center Se comparan los datos de rendimiento actuales con los históricos, con el fin de hacer un seguimiento de la rentabilidad en función de los objetivos, utilizando normalmente, dashboards personalizados.
+                  p.text-center Se comparan los datos de rendimiento actuales con los históricos, con el fin de hacer un seguimiento de la rentabilidad en función de los objetivos, utilizando normalmente,&nbsp;
+                    i dashboards&nbsp;
+                    | personalizados.
 
           .tarjeta.p-2
             .row.justify-content-center.mb-3

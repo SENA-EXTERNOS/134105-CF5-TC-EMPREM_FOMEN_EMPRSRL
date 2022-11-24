@@ -93,7 +93,7 @@
         PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.mb-md-0.col-8
-              h3 Definir el alcance
+              h3 Logística de compra
               p Planificación del aprovisionamiento de proveedores, ejecución de aprovisionamiento y gestión de la relación con los proveedores
             .col-md-2.col-4
               figure(data-aos='zoom-in')
@@ -111,7 +111,9 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Logística de distribución
-              p.text-start Planificación de actividades, almacenamiento de productos, ejecución de cross docking y el transporte de la distribución.
+              p.text-start Planificación de actividades, almacenamiento de productos, ejecución de&nbsp;
+                i cross docking&nbsp;
+                | y el transporte de la distribución.
 
           .row
             .col-md-10.mb-md-0.col-8
@@ -137,7 +139,7 @@
 
     h3.mb-5
       i.fas.fa-square.color_texto_acento.me-3
-      | ¿Cuál es la importancia de la logística en una empresa?
+      | Monitoreo de los productos (Envíos y entregas)
 
     //- Web
     .row.justify-content-center.mb-5(data-aos='zoom-in-down')
@@ -175,7 +177,9 @@
               br
               li 
                 i.fas.fa-check.color-icon-check
-                | &nbsp;Se tiene información en la página web o software de monitoreo de la empresa, mediante una aplicación para dispositivos móviles.
+                | &nbsp;Se tiene información en la página web o&nbsp;
+                i software&nbsp;
+                | de monitoreo de la empresa, mediante una aplicación para dispositivos móviles.
 
     p.mb-5(data-aos='fade-up') Teniendo en cuenta que todo sistema de información o monitoreo de transporte ofrece múltiples beneficios, cuando se desea integrar a un negocio o empresa, es complejo y a algunos empleados no les gusta el cambio, la innovación; o sea  que se debe involucrar a todo el equipo o grupo de trabajadores e integrarlos en las nuevas tecnologías, acompañarlos en la implementación y que sean parte fundamental éxito en el monitoreo de transportes; que vean los beneficios que ellos obtendrán del proyecto. 
 
