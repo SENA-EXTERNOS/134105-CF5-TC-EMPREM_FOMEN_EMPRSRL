@@ -145,7 +145,7 @@
             p.mb-0.text-white Lo invitamos a consultar el documento ¿Cómo se genera contenido? Donde ampliará la información sobre la generación de contenido, canales de comunicación con los clientes, cómo se genera una proyección y la realización de un informe logístico.
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
-              :href='obtenerLink("/actividades/Como se genera contenido.pdf")',
+              :href='obtenerLink("/downloads/Como se genera contenido.pdf")',
               target='_blank'
             )
               span Descargar
