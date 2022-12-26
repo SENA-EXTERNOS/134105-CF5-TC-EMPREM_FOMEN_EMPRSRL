@@ -272,19 +272,6 @@
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
-                      src='@/assets/template/tema01/t1-i17.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Talento
-                  p.text-center Los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
                       src='@/assets/template/tema01/t1-i18.png',
                       alt='AvatarTop'
                     )
