@@ -15,9 +15,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/introduccion/t0-i1.png")})` }'
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán temas que le serán de gran ayuda al momento de poner en práctica la promoción, exposición o venta de un producto o servicio. Además, se desarrollará ampliamente el concepto de uno de los procesos administrativos más eficientes utilizados por las empresas, el&nbsp;
-              i marketing,&nbsp;
-              | descubriéndose que su impacto y eficacia es irrefutable y su apropiada gestión permite percibir y evaluar un futuro a corto o largo plazo, con grandes resultados en cualquier organización. También, se hará énfasis en temas como el servicio al cliente y la competitividad, la generación de marcas y sus métodos respectivos, entre otros.
+            p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán temas que le serán de gran ayuda al momento de poner en práctica la promoción, exposición o venta de un producto o servicio. Además, se desarrollará ampliamente el concepto de uno de los procesos administrativos más eficientes utilizados por las empresas, el #[em marketing]; descubra cómo su impacto y eficacia son irrefutables y su apropiada gestión permite percibir y evaluar un futuro a corto o largo plazo, con grandes resultados en cualquier organización. Cualifíquese también en temas como el servicio al cliente y la competitividad, la generación de marcas y sus métodos respectivos, entre otros.
 
 
     p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.

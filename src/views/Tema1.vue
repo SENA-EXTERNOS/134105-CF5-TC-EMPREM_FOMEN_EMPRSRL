@@ -13,8 +13,8 @@
       i marketing:
 
     .tarjeta.tarjeta--s1.p-5.mb-5(data-aos='zoom-in-right')
-      SlyderA(tipo='b')
-        .row
+      LineaTiempoC.color-acento-contenido(text-small)
+        .row(titulo="")
           .col-md-7.mb-4.mb-md-0
             p El&nbsp;
               i marketing&nbsp;
@@ -28,7 +28,7 @@
                 src='@/assets/template/tema01/t1-i1.png',
                 alt='Texto que describa la imagen'
               )
-        .row
+        .row(titulo="")
           .col-md-7.mb-4.mb-md-0
             p Fue a principios del siglo XX, concretamente en el año 1902, cuando el profesor Jones de la Universidad de Michigan utilizó por primera vez el término:&nbsp;
               i marketing.
@@ -39,7 +39,7 @@
                 src='@/assets/template/tema01/t1-i2.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row
+        .row(titulo="")
           .col-md-7.mb-4.mb-md-0
             p Años más tarde, en 1911, esta disciplina fue creciendo hasta alcanzar su autonomía e independencia.
 
@@ -49,7 +49,7 @@
                 src='@/assets/template/tema01/t1-i3.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row
+        .row(titulo="")
           .col-md-7.mb-4.mb-md-0
             p Poco después, en 1914, Lewis Weld sacaría a la luz la primera investigación científica,&nbsp;
               i Distribución de mercado&nbsp;
@@ -62,7 +62,7 @@
                 src='@/assets/template/tema01/t1-i4.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row
+        .row(titulo="")
           .col-md-7.mb-4.mb-md-0
             p Luego, un año más tarde, se editaría el primer libro de&nbsp;
               i marketing: Algunos problemas de la distribución,&nbsp;
@@ -109,16 +109,16 @@
                   src='@/assets/template/tema01/t1-i7.png',
                   alt='alt'
                 ) 
-          .row(titulo='<em>Amazon Advertising</em>')
+          .row(titulo='Amazon <em>Advertising</em>')
             .col-8
-              p Funciona como una solución publicitaria, exclusiva de Amazon que permite tanto, llegar a los usuarios dentro del mayor portal de compras del mundo, como aprovechar su información para conectar con ellos en otros lugares. Además, los datos muestran que esta técnica seguirá creciendo y ganándole terreno a los más grandes de la publicidad, durante los próximos años.
+              p Funciona como una solución publicitaria, exclusiva de Amazon. Permite llegar a los usuarios dentro del mayor portal de compras del mundo y, también, aprovechar su información para conectar con ellos en otros lugares. Además, los datos muestran que esta técnica seguirá creciendo y ganándole terreno a los más grandes de la publicidad, durante los próximos años.
             .col-lg-4
               figure(data-aos='zoom-in')
                 img.img400.m-auto(
                   src='@/assets/template/tema01/t1-i8.png',
                   alt='alt'
                 ) 
-          .row(titulo='<em>Google Ads</em>')
+          .row(titulo='Google <em>Ads</em>')
             .col-8
               p Se puede decir que es una herramienta imprescindible de hoy día, para los especialistas en&nbsp;
                 i marketing,&nbsp;
@@ -152,10 +152,10 @@
                 ) 
           .row(titulo='Patrocinio de eventos')
             .col-8
-              p Para vender más, es necesario estar muy presente en la mente de los consumidores. El patrocinio de eventos es una excelente manera de conseguirlo y de asociar la marca, a los valores del evento.
-              p Otra ventaja de esta técnica de&nbsp;
-                i marketing&nbsp;
-                | es que permite tener presencia en una localidad en específico, sin necesidad de contar con una tienda física.
+              p Para vender más, es necesario estar muy presente en la mente de los consumidores. El patrocinio de eventos es una excelente manera de conseguirlo y de asociar la marca a los valores del evento.
+                br
+                br
+                |Otra ventaja de esta técnica de marketing es que permite tener presencia en una localidad en específico, sin necesidad de contar con una tienda física.
             .col-lg-4
               figure(data-aos='zoom-in')
                 img.img400.m-auto(
@@ -215,7 +215,7 @@
                   src='@/assets/template/tema01/t1-i14.png',
                   alt='alt'
                 ) 
-          .row(titulo='Facebook Ads')
+          .row(titulo='Facebook <em>Ads</em>')
             .col-8
               p Es la herramienta estrella en&nbsp;
                 strong social ads.&nbsp;
@@ -316,7 +316,7 @@
             i marketing&nbsp;
             | deben enfocarse, desarrollarse e implementarse, en concordancia con él.
 
-    p.mb-5 Los diferentes tipos de clientes según el mercado:
+    p.mb-5 Estos son los diferentes tipos de clientes, según el mercado:
 
     TabsA.color-acento-contenido.fz-10.mb-5(data-aos='zoom-in-right')
       .tarjeta.bg-03.p-4(titulo='Clientes del mercado de consumo')
@@ -359,15 +359,15 @@
       | Importancia de los clientes para el&nbsp;
       i marketing
 
-    p Por consiguiente, los clientes son muy importantes para cualquier empresa, debido a que, desde la perspectiva del&nbsp;
-      i marketing,&nbsp;
-      | lo que se busca es lograr un intercambio de valor, entre las empresas y sus mercados.
-    p En consecuencia, si la empresa hace un adecuado uso del&nbsp;
-      i marketing,&nbsp;
-      | entregará a los clientes un producto que les permita la satisfacción de una necesidad, a cambio de obtener utilidades; esto determina, además, la posibilidad que la empresa siga obteniendo éxito y que permanezca dentro del mercado.
-    p.mb-5 El&nbsp;
-      i marketing,&nbsp;
-      | tiene dos objetivos prioritarios con respecto a los clientes:
+    p Por consiguiente, los clientes son muy importantes para cualquier empresa debido a que, desde la perspectiva del marketing, lo que se busca es lograr un intercambio de valor entre las empresas y sus mercados.
+
+      br
+      br
+      |En consecuencia, si la empresa hace un adecuado uso del marketing, entregará a los clientes un producto que les permita la satisfacción de una necesidad a cambio de obtener utilidades; esto determina, además, la posibilidad de que la empresa siga obteniendo éxito y que permanezca dentro del mercado.
+
+      br
+      br
+      |El marketing, tiene dos objetivos prioritarios con respecto a los clientes:
 
     .row.justify-content-center.mb-5(data-aos='zoom-in-up') 
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
@@ -775,7 +775,7 @@
                 i marketing&nbsp;
                 | digital hasta el desarrollo de las redes sociales, es preciso entender la importancia del servicio al cliente, ya que este, puede marcar la diferencia en cualquier negocio. Un excelente servicio permite que el cliente se incline hacia una empresa determinada y la recomiende o que se dirija a sus competidores.
 
-    p.mb-5 Múltiples estudios revelan a lo largo de los años, que más de la mitad de los consumidores se cambian a la competencia debido a un pobre servicio al cliente. Además, esta tendencia viene acompañada de un sentimiento negativo hacia las empresas, debido a que los clientes afirman que podrían haber hecho algo más para evitar este cambio. Por lo tanto, a la hora de crear una estrategia de atención al cliente es necesario pensar dos veces para lograr el crecimiento de la organización y evitar situaciones incómodas entre consumidores y trabajadores.
+    p.mb-5 Múltiples estudios revelan, a lo largo de los años, que más de la mitad de los consumidores se cambian a la competencia debido a un pobre servicio al cliente. Además, esta tendencia viene acompañada de un sentimiento negativo hacia las empresas, debido a que los clientes afirman que podrían haber hecho algo más para evitar este cambio. Por lo tanto, a la hora de crear una estrategia de atención al cliente es necesario pensarlo bien para lograr el crecimiento de la organización y evitar situaciones incómodas entre consumidores y trabajadores.
 
     .row.justify-content-center.mb-5(data-aos='zoom-in-up')
       .col-11

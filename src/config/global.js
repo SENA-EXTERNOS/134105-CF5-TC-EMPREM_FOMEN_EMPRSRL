@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Mezcla de mercadeo, los clientes y la competencia',
     descripcionCurso:
-      'En este componente formativo se desarrollarán temas de gran importancia para comprender cómo se comercializa un producto o servicio; se hace referencia al <em>marketing</em>, al comportamiento de los mercados y las necesidades de los consumidores, a la creación de marca, las técnicas y fundamentos del mercadeo, la entrega de los productos y la satisfacción de los clientes, entre otros.',
+      'Este componente formativo aborda elementos y aspectos clave de la comercialización de productos o servicios; el aprendiz podrá afianzarse en conceptos y habilidades de <em>marketing</em>, comportamiento de los mercados y las necesidades de los consumidores, creación de marca, técnicas y fundamentos del mercadeo, entrega de los productos y la satisfacción de los clientes, entre otros.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
