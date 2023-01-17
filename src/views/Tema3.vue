@@ -198,8 +198,7 @@
                     alt='Texto que describa la imagen'
                   )
             .col-lg-10.col-12
-              p.mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. 
-              p Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.    
+              p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros. 
 
 </template>
 

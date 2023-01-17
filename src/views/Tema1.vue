@@ -113,9 +113,7 @@
                 ) 
           .row(titulo='Google <em>Ads</em>')
             .col-8
-              p Se puede decir que es una herramienta imprescindible de hoy día, para los especialistas en&nbsp;
-                i marketing,&nbsp;
-                | debido a que es una solución muy completa que permite crear múltiples tipos de campaña, y personalizar las opciones al máximo para, de esta manera, conseguir los mejores resultados.
+              p Se puede decir que es una herramienta imprescindible de hoy día, para los especialistas en #[em marketing], debido a que es una solución muy completa que permite crear múltiples tipos de campaña y personalizar las opciones al máximo para, de esta manera, conseguir los mejores resultados.
               | Para optimizar una publicidad en&nbsp;
               i Google Ads,&nbsp;
               | es necesario mejorar el nivel de calidad de los anuncios de la siguiente manera:
@@ -148,7 +146,7 @@
               p Para vender más, es necesario estar muy presente en la mente de los consumidores. El patrocinio de eventos es una excelente manera de conseguirlo y de asociar la marca a los valores del evento.
                 br
                 br
-                |Otra ventaja de esta técnica de marketing es que permite tener presencia en una localidad en específico, sin necesidad de contar con una tienda física.
+                |Otra ventaja de esta técnica de #[em marketing] es que permite tener presencia en una localidad en específico, sin necesidad de contar con una tienda física.
             .col-lg-4
               figure(data-aos='zoom-in')
                 img.img400.m-auto(
@@ -224,7 +222,7 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Investigaciones de mercado
 
-    p Después de conocer las técnicas de mercadeo se requiere, entonces, exponer las investigaciones de mercado, debido a que son recopilaciones y análisis de información que se lleva a cabo de forma sistemática para, finalmente, tomar decisiones dentro del campo del marketing estratégico y operativo. Se trata, en definitiva, de una potente herramienta que permite a la empresa obtener la información necesaria para establecer las diferentes políticas, objetivos, planes y estrategias más adecuadas a sus intereses.
+    p Después de conocer las técnicas de mercadeo se requiere, entonces, exponer las investigaciones de mercado, debido a que son recopilaciones y análisis de información que se lleva a cabo de forma sistemática para, finalmente, tomar decisiones dentro del campo del #[em marketing] estratégico y operativo. Se trata, en definitiva, de una potente herramienta que permite a la empresa obtener la información necesaria para establecer las diferentes políticas, objetivos, planes y estrategias más adecuadas a sus intereses.
       br
       br
       |Se debe tener en cuenta que el mercado demanda nuevas soluciones como:
@@ -325,15 +323,15 @@
       | Importancia de los clientes para el&nbsp;
       i marketing
 
-    p Por consiguiente, los clientes son muy importantes para cualquier empresa debido a que, desde la perspectiva del marketing, lo que se busca es lograr un intercambio de valor entre las empresas y sus mercados.
+    p Por consiguiente, los clientes son muy importantes para cualquier empresa debido a que, desde la perspectiva del #[em marketing], lo que se busca es lograr un intercambio de valor entre las empresas y sus mercados.
 
       br
       br
-      |En consecuencia, si la empresa hace un adecuado uso del marketing, entregará a los clientes un producto que les permita la satisfacción de una necesidad a cambio de obtener utilidades; esto determina, además, la posibilidad de que la empresa siga obteniendo éxito y que permanezca dentro del mercado.
+      |En consecuencia, si la empresa hace un adecuado uso del #[em marketing], entregará a los clientes un producto que les permita la satisfacción de una necesidad a cambio de obtener utilidades; esto determina, además, la posibilidad de que la empresa siga obteniendo éxito y que permanezca dentro del mercado.
 
       br
       br
-      |El marketing, tiene dos objetivos prioritarios con respecto a los clientes:
+      |El #[em marketing], tiene dos objetivos prioritarios con respecto a los clientes:
 
     .row.justify-content-center.mb-5(data-aos='zoom-in-up') 
       .col-sm-6.col-lg-5.mb-4.mb-lg-0
@@ -388,7 +386,7 @@
         .cajon.cajon-color-2.p-4
           p.mb-0 Entre algunas de las variables que son utilizadas para clasificar los mercados, se pueden mencionar los diferentes tipos de productos, compradores, competencia y área geográfica que abarcan.
 
-    p.mb-5 Lo invitamos a ver el siguiente video, donde se amplía la temática sobre la importancia de clasificar los mercados.
+    p.mb-5 Visualice atentamente el siguiente video. Allí se amplían detalles importantes sobre la clasificación de los mercados:
 
     .col-12.mb-5(data-aos='zoom-in-up')
       figure
@@ -608,7 +606,7 @@
 
     p Conocer la historia del&nbsp;
       i marketing&nbsp;
-      | digital, desde sus inicios y su evolución hasta la actualidad, resulta muy interesante, sobre todo a la hora de promocionar productos en línea, puesto que las marcas deben tener en cuenta que el marketing digital se ha venido desarrollando para lograr un mejor canal de comunicación y venta, vía online, de sus productos.
+      | digital, desde sus inicios y su evolución hasta la actualidad, resulta muy interesante, sobre todo a la hora de promocionar productos en línea, puesto que las marcas deben tener en cuenta que el #[em marketing] digital se ha venido desarrollando para lograr un mejor canal de comunicación y venta, vía online, de sus productos.
     p.mb-5 La historia del&nbsp;
       i marketing&nbsp;
       | digital y su evolución a través del tiempo:

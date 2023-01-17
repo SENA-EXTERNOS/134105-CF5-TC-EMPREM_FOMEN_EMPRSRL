@@ -232,7 +232,7 @@ export default {
         'https://psikipedia.com/libro/investigacion/1557-metodo-diseno-y-tecnica-conceptos',
     },
     {
-      referencia: 'Smith, A. (1776). <em>La riqueza de las naciones.</em>',
+      referencia: 'Smith, A. (1776). <em>La riqueza de las naciones.</em> ',
       link:
         'http://www.iunma.edu.ar/doc/MB/lic_historia_mat_bibliografico/Fundamentos%20de%20Econom%C3%ADa%20Pol%C3%ADtica/194-Smith,%20Adam%20-%20La%20riqueza%20de%20las%20naciones%20(Alianza).pdf',
     },

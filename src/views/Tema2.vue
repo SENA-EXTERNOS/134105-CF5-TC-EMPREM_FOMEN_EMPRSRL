@@ -132,23 +132,24 @@
           .tarjeta.color-acento-botones_black.p-3(x='97%', y='90%', numero='+')
             h3 Medir su rendimiento
             p No solo se deben diseñar e implementar acciones con el fin de potenciar la marca, sino que se deben medir los resultados de dichas acciones y tener unas metas establecidas, tanto a corto como a largo plazo, con la finalidad de corregir errores a tiempo y mejorar la estrategia de marca.  
-            
-        .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
-          .col-lg-2.col-2
-            figure
-              img(
-                src='@/assets/template/tema02/t2-i15.svg',
-                alt='Texto que describa la imagen'
+        .tarjeta(style="background-color: #d1d6f3 ")    
+          .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
+            .col-lg-2.col-2
+              figure
+                img(
+                  src='@/assets/template/tema02/t2-i15.svg',
+                  alt='Texto que describa la imagen'
+                )
+            .col-lg-7.col-6
+              
+              p.mb-0 Amplíe sus conocimientos en generación de contenidos, canales de comunicación con clientes, generación de proyecciones y realización de informes logísticos. Consulte el documento: #[b “¿Cómo se genera contenido?”] 
+            .col-lg-3.col-4.text-center
+              a.boton.boton--b.color-acento-botones(
+                :href='obtenerLink("/downloads/Como se genera contenido.pdf")',
+                target='_blank'
               )
-          .col-lg-7.col-6
-            p.mb-0.text-white Amplíe sus conocimientos en generación de contenidos, canales de comunicación con clientes, generación de proyecciones y realización de informes logísticos. Consulte el documento: #[b “¿Cómo se genera contenido?”] 
-          .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-acento-botones(
-              :href='obtenerLink("/downloads/Como se genera contenido.pdf")',
-              target='_blank'
-            )
-              span Descargar
-              i.fas.fa-file-download                 
+                span Descargar
+                i.fas.fa-file-download                 
 </template>
 
 <script>
