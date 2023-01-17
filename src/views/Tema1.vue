@@ -14,13 +14,12 @@
 
     .tarjeta.tarjeta--s1.p-5.mb-5(data-aos='zoom-in-right')
       LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="")
+        .row(titulo="1776")
           .col-md-7.mb-4.mb-md-0
-            p El&nbsp;
-              i marketing&nbsp;
-              | se desarrolla o inicia en la comercialización y el intercambio, ya sea de un servicio o producto; lo anterior es claro y viene desde hace muchos años, donde aparece el trueque como la primera herramienta, para responder a las necesidades de una sociedad no autosuficiente. Adam Smith (1776), afirma que “El consumo es el único propósito de cualquier tipo de producción y los intereses del productor solo deben ser atendidos en la medida en que sea necesario para promover la intención del consumidor”(p.512). En dicho proceso evolutivo el&nbsp;
-              i marketing&nbsp;
-              | ha logrado un gran protagonismo dentro y fuera del esquema de las organizaciones o empresas, siendo la herramienta más acorde y óptima para conocer y satisfacer a los clientes, no solo desde la mirada del crecimiento comercial, sino también a partir de ese acercamiento que las empresas necesitan para comunicarse y recibir información de lo que quieren.
+            p El #[em marketing] se desarrolla o inicia con la comercialización y el intercambio de un servicio o de un producto; ello viene presentándose desde hace muchos años, cuando apareció el trueque como la primera herramienta para responder a las necesidades de una sociedad no autosuficiente. 
+              br
+              br
+              |Adam Smith, (1776), afirma que “El consumo es el único propósito de cualquier tipo de producción y los intereses del productor solo deben ser atendidos en la medida en que sea necesario para promover la intención del consumidor” (p. 512). En dicho proceso evolutivo el #[em marketing] ha logrado un gran protagonismo dentro y fuera del esquema de las organizaciones o empresas, siendo la herramienta más acorde y óptima para conocer y satisfacer a los clientes, no solo desde la mirada del crecimiento comercial, sino también a partir de ese acercamiento que las empresas necesitan para comunicarse y recibir información de lo que quieren.
 
           .col-md-5
             figure(data-aos='zoom-in')
@@ -28,10 +27,9 @@
                 src='@/assets/template/tema01/t1-i1.png',
                 alt='Texto que describa la imagen'
               )
-        .row(titulo="")
+        .row(titulo="1902")
           .col-md-7.mb-4.mb-md-0
-            p Fue a principios del siglo XX, concretamente en el año 1902, cuando el profesor Jones de la Universidad de Michigan utilizó por primera vez el término:&nbsp;
-              i marketing.
+            p Fue a principios del siglo XX, concretamente en el año #[b 1902], cuando el profesor Jones de la Universidad de Michigan utilizó por primera vez el término: #[em marketing.]
 
           .col-md-5
             figure(data-aos='zoom-in')
@@ -39,9 +37,9 @@
                 src='@/assets/template/tema01/t1-i2.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row(titulo="")
+        .row(titulo="1911")
           .col-md-7.mb-4.mb-md-0
-            p Años más tarde, en 1911, esta disciplina fue creciendo hasta alcanzar su autonomía e independencia.
+            p Años más tarde, en #[b 1911], esta disciplina fue creciendo hasta alcanzar su autonomía e independencia.
 
           .col-md-5
             figure(data-aos='zoom-in')
@@ -49,12 +47,9 @@
                 src='@/assets/template/tema01/t1-i3.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row(titulo="")
+        .row(titulo="1914")
           .col-md-7.mb-4.mb-md-0
-            p Poco después, en 1914, Lewis Weld sacaría a la luz la primera investigación científica,&nbsp;
-              i Distribución de mercado&nbsp;
-              | sobre el&nbsp;
-              i marketing.
+            p Poco después, en #[b 1914], Lewis Weld sacaría a la luz la primera investigación científica, #[em Distribución de mercado sobre el  marketing.]
 
           .col-md-5
             figure(data-aos='zoom-in')
@@ -62,11 +57,9 @@
                 src='@/assets/template/tema01/t1-i4.png',
                 alt='Texto que describa la imagen'
               ) 
-        .row(titulo="")
+        .row(titulo="1915")
           .col-md-7.mb-4.mb-md-0
-            p Luego, un año más tarde, se editaría el primer libro de&nbsp;
-              i marketing: Algunos problemas de la distribución,&nbsp;
-              | de la mano de Arch Wilkinson Shaw.
+            p Luego, un año más tarde #[b (1915)], se editaría el primer libro de #[em marketing:] #[em Algunos problemas de la distribución], de la mano de Arch Wilkinson Shaw.
 
           .col-md-5
             figure(data-aos='zoom-in')
@@ -231,78 +224,51 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Investigaciones de mercado
 
-    p Después de conocer las técnicas de mercadeo, se hace necesario entonces, exponer las investigaciones de mercado, debido a que son recopilaciones y análisis de información que se lleva a cabo de forma sistemática, para, finalmente, tomar decisiones dentro del campo del&nbsp;
-      i marketing&nbsp;
-      | estratégico y operativo. Se trata, en definitiva, de una potente herramienta que permite a la empresa, obtener la información necesaria para establecer las diferentes políticas, objetivos, planes y estrategias más adecuadas a sus intereses.
-    p.mb-5 Se debe tener en cuenta que el mercado demanda nuevas soluciones como:
+    p Después de conocer las técnicas de mercadeo se requiere, entonces, exponer las investigaciones de mercado, debido a que son recopilaciones y análisis de información que se lleva a cabo de forma sistemática para, finalmente, tomar decisiones dentro del campo del marketing estratégico y operativo. Se trata, en definitiva, de una potente herramienta que permite a la empresa obtener la información necesaria para establecer las diferentes políticas, objetivos, planes y estrategias más adecuadas a sus intereses.
+      br
+      br
+      |Se debe tener en cuenta que el mercado demanda nuevas soluciones como:
 
     .row.mb-5(data-aos='zoom-in-right')
       .row.d-flex.justify-content-center
-        SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in')
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i16.png',
-                      alt='AvatarTop'
-                    )
+        .slyder-100
+          SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in')
+            .tarjeta-avatar
+              img(src='@/assets/template/tema01/t1-i16.png' alt='AvatarTop')
+              .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                .p-4
                   h3.text-center Velocidad
-                  p.text-center Los clientes necesitan que la información fluya con agilidad para tomar decisiones a tiempo y lo más acertadas posibles.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i17.png',
-                      alt='AvatarTop'
-                    )
+                  p Los clientes necesitan que la información fluya con agilidad para tomar decisiones a tiempo y lo más acertadas posibles.
+            .tarjeta-avatar
+              img(src='@/assets/template/tema01/t1-i17.png' alt='AvatarTop')
+              .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                .p-4
                   h3.text-center Talento
-                  p.text-center Los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
+                  p Los clientes demandan ideas que generen valor. No le dan importancia a la procedencia del conocimiento, porque lo que desean es información concreta, independientemente de cuál sea la fuente de origen o la metodología empleada para su obtención.
+            .tarjeta-avatar
+              img(src='@/assets/template/tema01/t1-i18.png' alt='AvatarTop')
+              .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                .p-4
+                  h3.text-center Nuevas fuentes 
+                  p La investigación más tradicional dará paso a otra basada en la minería de datos, análisis semióticos, neurociencia, estudios etnográficos, entre otros.
 
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i18.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Nuevas fuentes
-                  p.text-center La investigación más tradicional dará paso a otra basada en la minería de datos, análisis semióticos, neurociencia, estudios etnográficos, entre otros.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i19.png',
-                      alt='AvatarTop'
-                    )
+            .tarjeta-avatar
+              img(src='@/assets/template/tema01/t1-i19.png' alt='AvatarTop')
+              .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                .p-4
                   h3.text-center Mensajes concretos
-                  p.text-center Los clientes requieren una comunicación más clara y directa, con conclusiones concisas y divulgativas, es decir, utilizar un lenguaje que hable en titulares y a continuación sea informada.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i20.png',
-                      alt='AvatarTop'
-                    )
+                  p  Los clientes requieren una comunicación más clara y directa, con conclusiones concisas y divulgativas, es decir, utilizar un lenguaje que hable en titulares y a continuación sea informada.
+            .tarjeta-avatar 
+              img(src='@/assets/template/tema01/t1-i20.png' alt='AvatarTop')
+              .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                .p-4
                   h3.text-center Mayor conexión con las nuevas tecnologías
-                  p.text-center El Internet y las redes sociales deben tener un mayor protagonismo en los estudios de opinión.
+                  p El Internet y las redes sociales deben tener un mayor protagonismo en los estudios de opinión.
+
+            
+
+
+
 
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Los clientes: tipos y características
@@ -803,125 +769,64 @@
 
     .row.mb-5(data-aos='zoom-in-up')
       .row.d-flex.justify-content-center
-        SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in')
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i42.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Minería de datos
-                  p.text-center Hace referencia al uso de bases de datos, aprendizaje automático y estadísticas para descubrir las tendencias en los grandes conjuntos de datos.
+        SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in').slyder-100
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i42.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Minería de datos 
+                    p Hace referencia al uso de bases de datos, aprendizaje automático y estadísticas para descubrir las tendencias en los grandes conjuntos de datos.
 
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i43.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Generación de informes
-                  p.text-center Aquí se comparten los análisis de datos con las partes interesadas, para extraer las conclusiones y tomar decisiones.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i43.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Generación de informes
+                    p Aquí se comparten los análisis de datos con las partes interesadas, para extraer las conclusiones y tomar decisiones.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i44.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Valores de referencia y métricas de rendimiento
+                    p Se comparan los datos de rendimiento actuales con los históricos, con el fin de hacer un seguimiento de la rentabilidad en función de los objetivos, utilizando normalmente, #[em dashboards] personalizados.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i45.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Análisis descriptivo
+                    p Se hace uso del análisis de los datos preliminares, para investigar qué sucedió.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i46.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Generación de consultas
+                    p Con el fin de obtener las respuestas de los conjuntos de datos, la inteligencia de negocios hace preguntas específicas sobre estos.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i47.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Análisis estadístico
+                    p Se toman los resultados de los análisis descriptivos y se exploran más los datos, usando estadísticas para determinar cómo sucedió esta tendencia y por qué.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i48.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Visualización de datos
+                    p Los análisis de datos se transforman en representaciones visuales como cuadros, histogramas y gráficos, para consumir datos con mayor facilidad.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i49.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center Análisis visual
+                    p Se exploran los datos por medio de la narración visual, con el fin de comunicar ideas sobre la marcha y mantenerse dentro del flujo de análisis.
 
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i44.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Valores de referencia y métricas de rendimiento
-                  p.text-center Se comparan los datos de rendimiento actuales con los históricos, con el fin de hacer un seguimiento de la rentabilidad en función de los objetivos, utilizando normalmente,&nbsp;
-                    i dashboards&nbsp;
-                    | personalizados.
+          .tarjeta-avatar 
+                img(src='@/assets/template/tema01/t1-i50.png' alt='AvatarTop')
+                .tarjeta.w-100(style='background-color: #fffbc2').h-100
+                  .p-4
+                    h3.text-center  Preparación de datos
+                    p Se compilan fuentes diversas de datos, identificando las medidas y dimensiones, con el fin de prepararlos para el análisis de datos.
 
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i45.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Análisis descriptivo
-                  p.text-center Se hace uso del análisis de los datos preliminares, para investigar qué sucedió.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i46.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Generación de consultas
-                  p.text-center Con el fin de obtener las respuestas de los conjuntos de datos, la inteligencia de negocios hace preguntas específicas sobre estos.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i47.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Análisis estadístico
-                  p.text-center Se toman los resultados de los análisis descriptivos y se exploran más los datos, usando estadísticas para determinar cómo sucedió esta tendencia y por qué.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i48.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Visualización de datos
-                  p.text-center Los análisis de datos se transforman en representaciones visuales como cuadros, histogramas y gráficos, para consumir datos con mayor facilidad.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i49.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Análisis visual
-                  p.text-center Se exploran los datos por medio de la narración visual, con el fin de comunicar ideas sobre la marcha y mantenerse dentro del flujo de análisis.
-
-          .tarjeta.p-2
-            .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.bg-02.altura_border
-                .row.justify-content-center.t-2-nivel3-tarjeta
-                  .col-lg-6.col-4.mb-3
-                    img(
-                      src='@/assets/template/tema01/t1-i50.png',
-                      alt='AvatarTop'
-                    )
-                  h3.text-center Preparación de datos
-                  p.text-center Se compilan fuentes diversas de datos, identificando las medidas y dimensiones, con el fin de prepararlos para el análisis de datos.
 </template>
 
 <script>

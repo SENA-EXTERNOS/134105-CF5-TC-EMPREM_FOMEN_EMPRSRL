@@ -12,7 +12,7 @@
     .row.justify-content-center.mb-5(data-aos='fade-up')
       .col-12.col-lg-10
         .cajon.cajon-color-2.p-4
-          p.mb-0 Cuando un usuario o cliente consume un producto o servicio por más de una vez, se crea confianza; en términos comerciales se crea fidelización y un cliente satisfecho comprará el producto varias veces, creando una línea directa e indirecta, donde se atraen familiares, colegas, por su buena referencia. En este momento se están generando ventas y aumento de clientes.
+          p.mb-0 Cuando un usuario o cliente consume un producto o servicio por más de una vez, está dando señales de confianza en el producto y/o en la marca. En términos comerciales, hay un proceso de fidelización, lo que supone un cliente satisfecho que comprará el producto más veces y creará una línea directa e indirecta de potenciales clientes (familiares, amigos, colegas, a quienes, por su buena referencia, podría atraer). En ese momento se están generando ventas y aumento de clientes.
 
     p.mb-5(data-aos='fade-left') Un buen servicio al cliente puede llegar a ser un elemento promocional para las ventas. Atraer a un nuevo cliente, es aproximadamente seis veces más caro que mantener uno, por lo que las compañías han optado por escribir factores importantes para la actuación de la empresa, tales como:
 
@@ -85,16 +85,20 @@
       | ¿Cuál es la importancia de la logística en una empresa?
 
     p La logística empresarial es una parte esencial en la cadena de producción y suministro dentro de una empresa. La actividad logística incluye la planificación, ejecución y actividades que intervienen en la obtención, traslado y almacenamiento de materiales.
-    p Esta tiene dos objetivos primordiales: realizar el trabajo a un mínimo costo y brindar el mejor servicio posible al cliente. Para lograr esto, la empresa debe diseñar un sistema que controle toda la actividad logística, buscando que sea lo más eficaz y eficiente posible.
-    p Ahora, se expondrán los diferentes tipos de logística en la empresa: 
+      br
+      br
+      |La logística tiene dos objetivos primordiales: realizar el trabajo a un mínimo costo y brindar el mejor servicio posible al cliente. Para lograr esto la empresa debe diseñar un sistema que controle toda la actividad logística, buscando que sea lo más eficaz y eficiente posible.
+      br
+      br
+      |Conozca, entonces, los diferentes tipos de logística en la empresa:
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-11.col-12
         PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.mb-md-0.col-8
-              h3 Logística de compra
-              p Planificación del aprovisionamiento de proveedores, ejecución de aprovisionamiento y gestión de la relación con los proveedores
+              h3 Definir el alcance
+              p Planificación del aprovisionamiento de proveedores, ejecución de aprovisionamiento y gestión de la relación con los proveedores.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -139,7 +143,7 @@
 
     h3.mb-5
       i.fas.fa-square.color_texto_acento.me-3
-      | Monitoreo de los productos (Envíos y entregas)
+      | Monitoreo de los productos (envíos y entregas)
 
     //- Web
     .row.justify-content-center.mb-5(data-aos='zoom-in-down')
@@ -181,7 +185,7 @@
                 i software&nbsp;
                 | de monitoreo de la empresa, mediante una aplicación para dispositivos móviles.
 
-    p.mb-5(data-aos='fade-up') Teniendo en cuenta que todo sistema de información o monitoreo de transporte ofrece múltiples beneficios, cuando se desea integrar a un negocio o empresa, es complejo y a algunos empleados no les gusta el cambio, la innovación; o sea  que se debe involucrar a todo el equipo o grupo de trabajadores e integrarlos en las nuevas tecnologías, acompañarlos en la implementación y que sean parte fundamental éxito en el monitoreo de transportes; que vean los beneficios que ellos obtendrán del proyecto. 
+    p.mb-5(data-aos='fade-up') Todo sistema de información o monitoreo de transporte ofrece múltiples beneficios, pero cuando un sistema de este tipo se desea integrar a un negocio o empresa, puede resultar complejo que sea de agrado de los empleados y colaboradores, ya que, comúnmente, existe reticencia o desconfianza por los cambios. Por tanto, se debe involucrar a todo el equipo o grupo de trabajadores e impulsarlos en el conocimiento y uso de las nuevas tecnologías. Es preciso acompañarlos en la implementación y que sean parte fundamental éxito en el monitoreo de transportes; que vean los beneficios que ellos obtendrán del proyecto. 
 
     .row.justify-content-center.mb-5(data-aos='zoom-in-down')
       .col-12.col-lg-10

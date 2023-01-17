@@ -14,7 +14,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i1.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Ahora bien, es necesario estar informados y ser más exigentes; todo el tema de mercadeo no solo se trata de ofrecer buenos productos y servicios a un precio razonable, sino también, de proporcionar experiencias significativas a los consumidores, debido a que esto eleva enormemente el nivel de profesionalidad necesario para construir una marca con éxito.
+            p.mb-0 Estar informados y conocer el mercado ha sido y es una exigencia. El asunto general del mercadeo no solo se trata de ofrecer buenos productos y servicios a un precio razonable, sino también, de proporcionar experiencias significativas a los consumidores, debido a que esto eleva enormemente el nivel de profesionalidad necesario para construir una marca con éxito.
 
     p.mb-5 La marca, vista desde un panorama interno, es la expresión del propósito de una empresa y su compromiso con los diferentes grupos de interés; externamente, la marca es todo lo que las personas piensan, comparten y sienten sobre una compañía o producto y, desde la gestión, es una herramienta que permite generar vínculos con las personas, creando valor para la empresa y la sociedad en general.
 
@@ -23,7 +23,7 @@
         .cajon.cajon-color-2.p-4
           p.mb-0 Vale la pena aclarar, que el posicionamiento de una marca se compone de elementos fundamentales como: el público objetivo, el marco y punto de referencia y la razón para creer en ella. 
 
-    p.mb-5 A continuación, los métodos técnicos claves para la creación de marca:
+    p.mb-5 Conozca y profundice en los métodos técnicos claves para la creación de marca:
 
     TabsA.color-acento-contenido.fz-13.mb-5(data-aos='zoom-in-up')
       .tarjeta.bg-03.p-4(titulo='En investigación cuantitativa')
@@ -40,21 +40,21 @@
           .col-lg-6
             img(src='@/assets/template/tema02/t2-i3.png', alt='AvatarTop')     
 
-      .tarjeta.bg-03.p-4(titulo='Métodos')
+      .tarjeta.bg-03.p-4(titulo='Métodos generales')
         .row 
           .col-lg-6
             p Son los procesos de investigación que incluyen ciertas estrategias generales, que condicionan el desarrollo de cada una de sus etapas, siempre en función de la coherencia interna.
           .col-lg-6
             img(src='@/assets/template/tema02/t2-i4.png', alt='AvatarTop')     
 
-      .tarjeta.bg-03.p-4(titulo='Técnicas')
+      .tarjeta.bg-03.p-4(titulo='Técnicas específicas')
         .row 
           .col-lg-6
             p Son los procedimientos que se llevan a cabo para la realización de diferentes etapas particulares, y actúan como dispositivos auxiliares posibilitando el uso de los métodos.
           .col-lg-6
             img(src='@/assets/template/tema02/t2-i5.png', alt='AvatarTop')     
 
-      .tarjeta.bg-03.p-4(titulo='Diseño')
+      .tarjeta.bg-03.p-4(titulo='Diseño de investigación')
         .row 
           .col-lg-6
             p Es un proceso en el cual se realiza el boceto de la investigación, a través de decisiones específicas. Esta tarea se realiza antes de obtener los datos sistemáticamente. Estos procedimientos no se realizan de forma aislada, sino que, por el contrario, son consideradas en su conjunto y en función de los objetivos de la investigación.
@@ -141,8 +141,7 @@
                 alt='Texto que describa la imagen'
               )
           .col-lg-7.col-6
-            h4.text-white ¿Cómo se genera contenido? 
-            p.mb-0.text-white Lo invitamos a consultar el documento ¿Cómo se genera contenido? Donde ampliará la información sobre la generación de contenido, canales de comunicación con los clientes, cómo se genera una proyección y la realización de un informe logístico.
+            p.mb-0.text-white Amplíe sus conocimientos en generación de contenidos, canales de comunicación con clientes, generación de proyecciones y realización de informes logísticos. Consulte el documento: #[b “¿Cómo se genera contenido?”] 
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
               :href='obtenerLink("/downloads/Como se genera contenido.pdf")',
