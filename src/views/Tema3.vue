@@ -97,7 +97,7 @@
         PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.mb-md-0.col-8
-              h3 Definir el alcance
+              h3 Logística de compra
               p Planificación del aprovisionamiento de proveedores, ejecución de aprovisionamiento y gestión de la relación con los proveedores.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
