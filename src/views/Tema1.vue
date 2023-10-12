@@ -266,7 +266,7 @@
             
 
 
-
+    Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Los clientes: tipos y características
@@ -290,28 +290,28 @@
           .col-lg-6
             img(src='@/assets/template/tema01/t1-i21.png', alt='AvatarTop')
 
-      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados industriales')
+      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados<br> industriales')
         .row 
           .col-lg-6
             p Son todas las empresas que demandan los productos que produce otra empresa, con el propósito de usarlos en su proceso de producción. Posteriormente, pueden transformarlos y elaborar un nuevo producto o hacer uso de ellos para transformar otros productos, los cuales serán puestos en el mercado.
           .col-lg-6
             img(src='@/assets/template/tema01/t1-i22.png', alt='AvatarTop') 
 
-      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados de revendedores')
+      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados<br> de revendedores')
         .row 
           .col-lg-6
             p Son todas las empresas que compran los bienes y servicios de una empresa, y luego los ponen en venta para el uso de los consumidores finales.
           .col-lg-6
             img(src='@/assets/template/tema01/t1-i23.png', alt='AvatarTop')
 
-      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados de gobierno')
+      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados<br> de gobierno')
         .row 
           .col-lg-6
             p El gobierno o las dependencias del gobierno actúan como clientes, porque compran los bienes y servicios de otras empresas para ofrecer servicios públicos. Por ejemplo, cuando el gobierno compra insumos para llevar a cabo una operación en un hospital público.
           .col-lg-6
             img(src='@/assets/template/tema01/t1-i24.png', alt='AvatarTop')
 
-      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados internacionales')
+      .tarjeta.bg-03.p-4(titulo='Clientes de los mercados<br> internacionales')
         .row 
           .col-lg-6
             p En este tipo de mercado se pueden incluir como clientes a los consumidores, productores, revendedores y gobiernos de otro país diferente al propio, que soliciten y compren los productos que brinda una empresa.
@@ -424,14 +424,13 @@
               i marketing&nbsp;
               | son mucho más efectivas, debido a que impactan a las personas correctas, con contenidos adaptados a cada una de sus necesidades.
 
-    p.mb-5 A continuación, se muestran los cuatro tipos de segmentación de mercado:
+    p.mb-4 A continuación, se muestran los cuatro tipos de segmentación de mercado:
 
     .col-12.mb-5(data-aos='zoom-in')
+      .titulo-sexto.color-acento-contenido.mb-1
+        p.mb-0 #[b Figura 1.] #[br]  #[em Tipos de segmentación de mercado]
       figure
-        img(
-          src='@/assets/template/tema01/t1-i30.svg',
-          alt='Texto que describa la imagen'
-        ) 
+        img(src='@/assets/template/tema01/t1-i30.svg', alt='' ) 
 
     h3.mb-5
       i.fas.fa-square.color_texto_acento.me-3
@@ -468,6 +467,8 @@
       .col-12.col-lg-10
         .cajon.cajon-color-1.p-4
           p.mb-0 En cuanto a los compradores, se habla de monopsonio y oligopsonio. En el caso de monopsonio, existe un único comprador en el mercado, por lo que tiene más capacidad para controlar cantidades y precios para conseguir menores costos que en mercados en los que hay competencia. Y, el oligopsonio brinda la posibilidad a los pocos compradores, de influir en cantidades y precios.
+
+    Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2&nbsp;

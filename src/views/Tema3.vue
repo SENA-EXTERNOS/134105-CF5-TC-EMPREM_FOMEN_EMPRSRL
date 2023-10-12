@@ -193,10 +193,8 @@
           .row 
             .col-lg-2.col-4
               figure
-                  img(
-                    src='@/assets/template/tema03/t3-i6.svg',
-                    alt='Texto que describa la imagen'
-                  )
+                img.px-lg-3(
+                  src='@/assets/template/tema03/t3-i6.svg', alt='')
             .col-lg-10.col-12
               p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros. 
 
