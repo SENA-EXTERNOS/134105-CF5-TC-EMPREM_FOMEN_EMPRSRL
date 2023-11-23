@@ -199,12 +199,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Aranda, A. (2018). <em>Segmentación de mercados: definición, tipos y estrategia.</em>',
-      link:
-        'https://www.abtasty.com/es/blog/segmentacion-de-mercado-definicion-tipos-y-estrategia/',
-    },
-    {
-      referencia:
         'Díaz, C. (2022). <em>Monitoreo de transporte: 5 maneras en que mejoran tus operaciones.</em>',
       link:
         'https://www.netlogistik.com/es/blog/monitoreo-de-transporte-5-maneras-en-que-mejora-tus-operaciones#:~:text=El%20monitoreo%20de%20transporte%20es,operadores%20para%20recibir%20env%C3%ADos%20entrantes',
